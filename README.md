@@ -22,4 +22,4 @@ Jupyter notebook, visual studio code and pycharm as IDE
 Python flask for http server
 HTML/CSS/Javascript for UI
 Here is the video playlist for entire project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
-And the github I referenced is :  https://github.com/codebasics/py/blob...
+And the github I referenced is :  https://github.com/codebasics/py
